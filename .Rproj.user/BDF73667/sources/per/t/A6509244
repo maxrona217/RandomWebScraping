@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537972499724.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1445350490",
+    "id" : "A6509244",
+    "lastKnownWriteTime" : 1538072479,
+    "last_content_update" : 1538072479846,
+    "path" : "~/Documents/RandomWebScraping/nfl_scrapper.R",
+    "project_path" : "nfl_scrapper.R",
+    "properties" : {
+        "cursorPosition" : "48,3",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
